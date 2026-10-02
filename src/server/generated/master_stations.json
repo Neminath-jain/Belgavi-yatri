@@ -1,0 +1,6862 @@
+[
+  {
+    "id": "stn-1",
+    "name": "A",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-2",
+    "name": "AADARSH",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-3",
+    "name": "AALAKHANUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-4",
+    "name": "AJRA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-5",
+    "name": "AKKALKOTA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-6",
+    "name": "ALANAVAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-7",
+    "name": "ALAND",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-8",
+    "name": "ALARWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-9",
+    "name": "ALNAVAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-10",
+    "name": "AMMANAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-11",
+    "name": "ANANTAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-12",
+    "name": "ANGOL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.512,
+        15.831
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-13",
+    "name": "ANGOL SDNR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.512,
+        15.831
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-14",
+    "name": "ANGOL VTM",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.512,
+        15.831
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-15",
+    "name": "ANKALGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-16",
+    "name": "ANKOLA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-17",
+    "name": "ARDN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-18",
+    "name": "ARJUNWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-19",
+    "name": "ASHARA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-20",
+    "name": "ATHANI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0592,
+        16.7328
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-21",
+    "name": "AURADA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-22",
+    "name": "AURAGABAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-23",
+    "name": "AURANGABAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-24",
+    "name": "AURGABAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-25",
+    "name": "AWARAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-26",
+    "name": "AWT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-27",
+    "name": "B",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-28",
+    "name": "B SAUDATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-29",
+    "name": "BA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.778,
+        16.488
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-30",
+    "name": "BADAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-31",
+    "name": "BADAMI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.6766,
+        15.9189
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-32",
+    "name": "BADRAVATI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-33",
+    "name": "BADRAVATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-34",
+    "name": "BADWADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-35",
+    "name": "BAGALAKOT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-36",
+    "name": "BAGALKOT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.698,
+        16.185
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-37",
+    "name": "BAGEWADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-38",
+    "name": "BAILAHONAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-39",
+    "name": "BAILAHONGAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-40",
+    "name": "BAILHONGAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.8569,
+        15.8155
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-41",
+    "name": "BALKI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-42",
+    "name": "BALKUNDRI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-43",
+    "name": "BALLARI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.9214,
+        15.1394
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-44",
+    "name": "BAMBALWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.55,
+        16.52
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-45",
+    "name": "BANAHATI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-46",
+    "name": "BANAHATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-47",
+    "name": "BANGALORE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-48",
+    "name": "BANHATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-49",
+    "name": "BARAMANTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-50",
+    "name": "BARAMATI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-51",
+    "name": "BARAMATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-52",
+    "name": "BARSI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-53",
+    "name": "BASRIKATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.48,
+        15.89
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-54",
+    "name": "BATAKL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-55",
+    "name": "BATKAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-56",
+    "name": "BAVACHI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-57",
+    "name": "BDM",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-58",
+    "name": "BDVT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-59",
+    "name": "BEKKERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-60",
+    "name": "BELAGAVI CBT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-61",
+    "name": "BELAKUD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-62",
+    "name": "BELLARI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-63",
+    "name": "BENDAWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-64",
+    "name": "BENGALURU",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5946,
+        12.9716
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-65",
+    "name": "BENGLORE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-66",
+    "name": "BENNALI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.54,
+        16.5
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-67",
+    "name": "BETAGERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-68",
+    "name": "BHADRAVATI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-69",
+    "name": "BHADRAVATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-70",
+    "name": "BHAIRAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-71",
+    "name": "BHATAKAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-72",
+    "name": "BHOJ",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.43,
+        16.56
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-73",
+    "name": "BIDAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.519,
+        17.9104
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-74",
+    "name": "BIDARBHAVI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.519,
+        17.9104
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-75",
+    "name": "BIDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-76",
+    "name": "BIRADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-77",
+    "name": "BK",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-78",
+    "name": "BNH",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-79",
+    "name": "BORAGAON",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-80",
+    "name": "BORIVILI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-81",
+    "name": "BORVELI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-82",
+    "name": "BUDIHAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-83",
+    "name": "BUGADIKATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-84",
+    "name": "BUGATE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-85",
+    "name": "CH MANGALURU",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-86",
+    "name": "CHAITHAN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-87",
+    "name": "CHANDAGAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.18,
+        15.93
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-88",
+    "name": "CHANDAN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-89",
+    "name": "CHANDUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.66,
+        16.52
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-90",
+    "name": "CHAPAGAON",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-91",
+    "name": "CHENNAI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-92",
+    "name": "CHIGULA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-93",
+    "name": "CHIKAHATIHALI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-94",
+    "name": "CHIKAHATIHOLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-95",
+    "name": "CHIKALA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-96",
+    "name": "CHIKKODI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.596,
+        16.43
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-97",
+    "name": "CHINCHALI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-98",
+    "name": "CHIPALUN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-99",
+    "name": "CHIPLUN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-100",
+    "name": "CHIPPLUN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-101",
+    "name": "CHITRADURGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.402,
+        14.225
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-102",
+    "name": "DADDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-103",
+    "name": "DANDELI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.6229,
+        15.2427
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-104",
+    "name": "DAVANAGERE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-105",
+    "name": "DAVANGER",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-106",
+    "name": "DAVANGERE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-107",
+    "name": "DAVANGERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-108",
+    "name": "DESUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-109",
+    "name": "DEVAGAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-110",
+    "name": "DEVARAI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-111",
+    "name": "DEVARAJAS",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-112",
+    "name": "DEVRAI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-113",
+    "name": "DHAMNE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.455,
+        15.864
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-114",
+    "name": "DHARAMASTAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-115",
+    "name": "DHARMASTAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-116",
+    "name": "DHARWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0078,
+        15.4589
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-117",
+    "name": "DIGGEWADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.62,
+        16.48
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-118",
+    "name": "DKSSK",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-119",
+    "name": "DMG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-120",
+    "name": "DNK",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-121",
+    "name": "DNT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-122",
+    "name": "DONWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-123",
+    "name": "DPM SCH",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-124",
+    "name": "DSC",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-125",
+    "name": "DVG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-126",
+    "name": "DWS",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-127",
+    "name": "DYAM",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-128",
+    "name": "EXAMBA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.51,
+        16.59
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-129",
+    "name": "FACTORY",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-130",
+    "name": "FACTRE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-131",
+    "name": "FACTRY",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-132",
+    "name": "GADAG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-133",
+    "name": "GADAHINGLAJ",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-134",
+    "name": "GADINGLAJ",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.35,
+        16.23
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-135",
+    "name": "GAGAVATI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-136",
+    "name": "GALATAGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.45,
+        16.51
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-137",
+    "name": "GANAGAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-138",
+    "name": "GANGAVATHI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-139",
+    "name": "GANGAVATI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-140",
+    "name": "GANGAVATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-141",
+    "name": "GANGAVTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-142",
+    "name": "GANIKOPP",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-143",
+    "name": "GANIKOPPA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-144",
+    "name": "GARLGUNJI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-145",
+    "name": "GDG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-146",
+    "name": "GDGL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-147",
+    "name": "GDPR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-148",
+    "name": "GDVL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-149",
+    "name": "GIRIYAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-150",
+    "name": "GKRN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-151",
+    "name": "GODAGERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-152",
+    "name": "GOKAK",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.8236,
+        16.1685
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-153",
+    "name": "GOKAKA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.8236,
+        16.1685
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-154",
+    "name": "GOKARN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-155",
+    "name": "GOKN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-156",
+    "name": "GONDAVALI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-157",
+    "name": "GOUNDWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-158",
+    "name": "GUDDAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-159",
+    "name": "GULADAGOL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-160",
+    "name": "GULADAGUL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-161",
+    "name": "GULEDAGUD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-162",
+    "name": "GULEDGUDDA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.7869,
+        16.0506
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-163",
+    "name": "GULIDAGOL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-164",
+    "name": "GURAMATKAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-165",
+    "name": "GURU",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-166",
+    "name": "H",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.596,
+        16.43
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-167",
+    "name": "HALAGANI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-168",
+    "name": "HALAKARNI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-169",
+    "name": "HALAYAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-170",
+    "name": "HALEHOSUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-171",
+    "name": "HALGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-172",
+    "name": "HALIYAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.76,
+        15.33
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-173",
+    "name": "HALIYIAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-174",
+    "name": "HANAGAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-175",
+    "name": "HANGAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-176",
+    "name": "HARAGAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-177",
+    "name": "HARANKOLL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-178",
+    "name": "HARUGERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.96,
+        16.54
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-179",
+    "name": "HARUGERI X",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.96,
+        16.54
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-180",
+    "name": "HASSAN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-181",
+    "name": "HAVERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-182",
+    "name": "HIDAKAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-183",
+    "name": "HIDKAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.64,
+        16.15
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-184",
+    "name": "HIRAKERUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.72,
+        16.32
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-185",
+    "name": "HIRE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-186",
+    "name": "HIREKERUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.72,
+        16.32
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-187",
+    "name": "HLL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-188",
+    "name": "HOLIHOSUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-189",
+    "name": "HONAGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-190",
+    "name": "HONGAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.8569,
+        15.8155
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-191",
+    "name": "HONNAWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-192",
+    "name": "HOSAPETE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-193",
+    "name": "HOSHPET",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-194",
+    "name": "HOSPET",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-195",
+    "name": "HOSPETH",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-196",
+    "name": "HOSUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-197",
+    "name": "HUBBALI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-198",
+    "name": "HUBBALLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.124,
+        15.3647
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-199",
+    "name": "HUKKERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.601,
+        16.228
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-200",
+    "name": "HULIKAVI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-201",
+    "name": "HUMANABAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.296,
+        17.828
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-202",
+    "name": "HUNARGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-203",
+    "name": "HUNCHANATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-204",
+    "name": "HUNKUND",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-205",
+    "name": "HYDERBAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-206",
+    "name": "ICHALAKARARANJI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-207",
+    "name": "ICHALAKARNJI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-208",
+    "name": "ICHALKARANJI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.462,
+        16.692
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-209",
+    "name": "ICHALKARNJI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-210",
+    "name": "IKL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-211",
+    "name": "ILAKAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-212",
+    "name": "ILKAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-213",
+    "name": "ILKALAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-214",
+    "name": "INCHAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-215",
+    "name": "INCHALAKARANJI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-216",
+    "name": "INDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.9592,
+        17.1784
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-217",
+    "name": "INGALI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-218",
+    "name": "ISLAMPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-219",
+    "name": "ITAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-220",
+    "name": "JAIN COL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-221",
+    "name": "JALALPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-222",
+    "name": "JAMAKHANDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.2941,
+        16.5113
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-223",
+    "name": "JAMKANDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-224",
+    "name": "JAMKHANDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-225",
+    "name": "JAMMUKHANDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-226",
+    "name": "JANAWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-227",
+    "name": "JANEWADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-228",
+    "name": "JATRAT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.34,
+        16.39
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-229",
+    "name": "JEVARAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-230",
+    "name": "JEVARGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-231",
+    "name": "JODAKURLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.64,
+        16.38
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-232",
+    "name": "JOTIBA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-233",
+    "name": "JYOTIBA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-234",
+    "name": "JYOTIBHA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-235",
+    "name": "K",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.596,
+        16.43
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-236",
+    "name": "KADAKLAT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-237",
+    "name": "KADAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.68,
+        16.42
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-238",
+    "name": "KAKATI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.53,
+        15.93
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-239",
+    "name": "KALABURAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.8343,
+        17.3297
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-240",
+    "name": "KALBURAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-241",
+    "name": "KALBURGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-242",
+    "name": "KALENATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-243",
+    "name": "KALKAMB",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-244",
+    "name": "KALKUNDRI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-245",
+    "name": "KALLOL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.63,
+        16.61
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-246",
+    "name": "KALYAN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-247",
+    "name": "KAMKERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-248",
+    "name": "KANAGALA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-249",
+    "name": "KANAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-250",
+    "name": "KANBARGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.538,
+        15.882
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-251",
+    "name": "KANKOLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-252",
+    "name": "KANKUMBI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-253",
+    "name": "KARADAGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.48,
+        16.54
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-254",
+    "name": "KARAGAOV",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-255",
+    "name": "KARAJAGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-256",
+    "name": "KARAWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-257",
+    "name": "KARDIGUDDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-258",
+    "name": "KARLE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-259",
+    "name": "KAROSHI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-260",
+    "name": "KARWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.1306,
+        14.8136
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-261",
+    "name": "KAVERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-262",
+    "name": "KEDANUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-263",
+    "name": "KENCHANATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-264",
+    "name": "KERUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.72,
+        16.32
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-265",
+    "name": "KESTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-266",
+    "name": "KHADAKALAT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.475,
+        16.485
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-267",
+    "name": "KHANAGAON",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-268",
+    "name": "KHANAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5147,
+        15.6385
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-269",
+    "name": "KHANPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-270",
+    "name": "KHB",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-271",
+    "name": "KHOLAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-272",
+    "name": "KILEGAV",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-273",
+    "name": "KINAYE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-274",
+    "name": "KL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-275",
+    "name": "KLGV",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-276",
+    "name": "KMK",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-277",
+    "name": "KODEKAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-278",
+    "name": "KODICHWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-279",
+    "name": "KODL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-280",
+    "name": "KOLHAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.2433,
+        16.705
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-281",
+    "name": "KOLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-282",
+    "name": "KONKERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-283",
+    "name": "KORR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-284",
+    "name": "KOULAPURWADA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-285",
+    "name": "KOWAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-286",
+    "name": "KUDACHI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.852,
+        16.634
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-287",
+    "name": "KUDAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-288",
+    "name": "KUKADOLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-289",
+    "name": "KULAGOD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-290",
+    "name": "KUMATA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-291",
+    "name": "KUMTA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.407,
+        14.426
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-292",
+    "name": "KURNIWADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-293",
+    "name": "KUSHTAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.195,
+        15.758
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-294",
+    "name": "KVL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-295",
+    "name": "LATTUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-296",
+    "name": "LAXMESHWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-297",
+    "name": "LINAGASUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-298",
+    "name": "MADAGAON",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.958,
+        15.2736
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-299",
+    "name": "MADAGAV",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-300",
+    "name": "MAHABALESHW",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-301",
+    "name": "MAHABALESHWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-302",
+    "name": "MAHABELSHWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-303",
+    "name": "MAHALINGAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-304",
+    "name": "MAHALINGPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1147,
+        16.398
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-305",
+    "name": "MAJAGAON",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.502,
+        15.821
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-306",
+    "name": "MAJALATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-307",
+    "name": "MALVAN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-308",
+    "name": "MAMADAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-309",
+    "name": "MANAGUTTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-310",
+    "name": "MANAKAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-311",
+    "name": "MANGALURU",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-312",
+    "name": "MANGUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.44,
+        16.59
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-313",
+    "name": "MANTUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-314",
+    "name": "MAPASA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-315",
+    "name": "MARAKANDYE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-316",
+    "name": "MARAKATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-317",
+    "name": "MARDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-318",
+    "name": "MARIHIAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-319",
+    "name": "MASKI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-320",
+    "name": "MASTMARDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-321",
+    "name": "MAVINKATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-322",
+    "name": "MEKAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-323",
+    "name": "MIRAJ",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.6465,
+        16.7725
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-324",
+    "name": "MODAGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-325",
+    "name": "MORAB",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-326",
+    "name": "MTN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-327",
+    "name": "MUCHANDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.582,
+        15.923
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-328",
+    "name": "MUDAGERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-329",
+    "name": "MUDALAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-330",
+    "name": "MUDDEBIHAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.134,
+        16.334
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-331",
+    "name": "MUDHEBIAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-332",
+    "name": "MUDHOL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.2864,
+        16.3353
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-333",
+    "name": "MUGALKOD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.05,
+        16.46
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-334",
+    "name": "MUGILIHAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-335",
+    "name": "MUMBAI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.8777,
+        19.076
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-336",
+    "name": "MUNNOLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-337",
+    "name": "MURDESWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-338",
+    "name": "MYSURU",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.6394,
+        12.2958
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-339",
+    "name": "N",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0592,
+        16.7328
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-340",
+    "name": "NADIHALLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-341",
+    "name": "NADIHIALI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-342",
+    "name": "NAGANUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-343",
+    "name": "NAGYANWADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-344",
+    "name": "NAIGLAJ",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-345",
+    "name": "NANDANI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-346",
+    "name": "NANDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-347",
+    "name": "NARGUND",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-348",
+    "name": "NARSINHWADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.69,
+        16.69
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-349",
+    "name": "NASHIK",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.7898,
+        19.9975
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-350",
+    "name": "NAVAGE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-351",
+    "name": "NAVALAGATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-352",
+    "name": "NEJ",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-353",
+    "name": "NESARAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-354",
+    "name": "NGR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.538,
+        15.876
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-355",
+    "name": "NIGADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-356",
+    "name": "NILAGE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-357",
+    "name": "NIPANAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-358",
+    "name": "NIPNYAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-359",
+    "name": "NIPPANI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.3807,
+        16.4026
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-360",
+    "name": "PACHAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-361",
+    "name": "PANDARAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-362",
+    "name": "PANGUNTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-363",
+    "name": "PANGUNTTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-364",
+    "name": "PANGUTTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-365",
+    "name": "PANJIM",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8325,
+        15.4989
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-366",
+    "name": "PANT",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-367",
+    "name": "PARALI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-368",
+    "name": "PARAMANANDAWADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-369",
+    "name": "PARMESHWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-370",
+    "name": "PASCHAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-371",
+    "name": "PIMPRI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-372",
+    "name": "PINPARI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-373",
+    "name": "PNX",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-374",
+    "name": "POLICE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-375",
+    "name": "PUNA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-376",
+    "name": "PUNE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8567,
+        18.5204
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-377",
+    "name": "RAIABAG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-378",
+    "name": "RAIBAG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.778,
+        16.488
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-379",
+    "name": "RAICHUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.3556,
+        16.212
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-380",
+    "name": "RAJAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-381",
+    "name": "RAJGULI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-382",
+    "name": "RAJHASGAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-383",
+    "name": "RAMANAGAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-384",
+    "name": "RAMDUGRA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-385",
+    "name": "RAMDURG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.297,
+        15.948
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-386",
+    "name": "RAMDURGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.297,
+        15.948
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-387",
+    "name": "RAMNAGAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-388",
+    "name": "RAMTRITH",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.538,
+        15.876
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-389",
+    "name": "RANEBENNUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-390",
+    "name": "RANIBENNUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-391",
+    "name": "RANKUNDE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-392",
+    "name": "RASHING",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-393",
+    "name": "RATANGERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-394",
+    "name": "RATNAGIRI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.3,
+        16.994
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-395",
+    "name": "RATNBAGIRI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-396",
+    "name": "RAYABHAG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-397",
+    "name": "RCU",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-398",
+    "name": "REDY",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-399",
+    "name": "RON",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-400",
+    "name": "RONA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-401",
+    "name": "S",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.478,
+        16.258
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-402",
+    "name": "SADALAGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.535,
+        16.572
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-403",
+    "name": "SAGAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-404",
+    "name": "SAMBAJI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-405",
+    "name": "SANDUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-406",
+    "name": "SANGLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5815,
+        16.8524
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-407",
+    "name": "SANK",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.478,
+        16.258
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-408",
+    "name": "SANKESHWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.478,
+        16.258
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-409",
+    "name": "SANKKESHWAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-410",
+    "name": "SAPTASAGAR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-411",
+    "name": "SATARA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-412",
+    "name": "SAVADATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-413",
+    "name": "SAVALAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.18,
+        16.52
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-414",
+    "name": "SAVANUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-415",
+    "name": "SAWANTWADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-416",
+    "name": "SDL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-417",
+    "name": "SDNR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-418",
+    "name": "SEDAM",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-419",
+    "name": "SENDUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-420",
+    "name": "SHAHAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.842,
+        16.701
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-421",
+    "name": "SHAHU",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-422",
+    "name": "SHAKTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-423",
+    "name": "SHIRADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-424",
+    "name": "SHIRAGOUN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-425",
+    "name": "SHIRAGUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-426",
+    "name": "SHIVAMOGGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.5681,
+        13.9299
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-427",
+    "name": "SIDDAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-428",
+    "name": "SIGIHALLI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-429",
+    "name": "SINDAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.2347,
+        16.9206
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-430",
+    "name": "SINDGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-431",
+    "name": "SIRAGAV",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-432",
+    "name": "SIRASANGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-433",
+    "name": "SIRDI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-434",
+    "name": "SIRSI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-435",
+    "name": "SOLAHPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-436",
+    "name": "SOLAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.9064,
+        17.6599
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-437",
+    "name": "SOLHAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-438",
+    "name": "SONDUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-439",
+    "name": "SONNATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-440",
+    "name": "SOUDATTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-441",
+    "name": "SRG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-442",
+    "name": "STARA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-443",
+    "name": "SULAGA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.468,
+        15.912
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-444",
+    "name": "SULEBHAVI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.654,
+        15.892
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-445",
+    "name": "SURAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-446",
+    "name": "SUREBAN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-447",
+    "name": "TALIKOTE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-448",
+    "name": "TALIKOTI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-449",
+    "name": "TAN",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-450",
+    "name": "TANA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-451",
+    "name": "TEK",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-452",
+    "name": "TERNI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-453",
+    "name": "THANA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-454",
+    "name": "THANE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-455",
+    "name": "TIGADI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-456",
+    "name": "TIRTHKUNDE",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-457",
+    "name": "TIRUPATI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-458",
+    "name": "TLK",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-459",
+    "name": "TOLAGI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-460",
+    "name": "TORALI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-461",
+    "name": "TTP",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-462",
+    "name": "TULAJAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-463",
+    "name": "TULJAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-464",
+    "name": "UDAPI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-465",
+    "name": "ULAVI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-466",
+    "name": "ULV",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-467",
+    "name": "VADAGAON",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.498,
+        15.834
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-468",
+    "name": "VADAGAON VTM",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.498,
+        15.834
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-469",
+    "name": "VADAGOL X",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-470",
+    "name": "VANTUMRI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.524,
+        15.932
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-471",
+    "name": "VARKAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-472",
+    "name": "VASCO",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8117,
+        15.3982
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-473",
+    "name": "VEERAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-474",
+    "name": "VENGURLA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-475",
+    "name": "VIJAYAPURA",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.7175,
+        16.8288
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-476",
+    "name": "VIJAYPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-477",
+    "name": "VISHALAGAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-478",
+    "name": "VISHALGAD",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-479",
+    "name": "X",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.51,
+        16.59
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-480",
+    "name": "Y HILL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-481",
+    "name": "YADALBHAVI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-482",
+    "name": "YADEGERI",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-483",
+    "name": "YADGIR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.135,
+        16.77
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-484",
+    "name": "YADUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.69,
+        16.61
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-485",
+    "name": "YALLAPUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-486",
+    "name": "YDRG",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-487",
+    "name": "YELLUR",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.498,
+        15.782
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-488",
+    "name": "YERAMAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-489",
+    "name": "YERMAL",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "stn-490",
+    "name": "YML",
+    "platform_name": "Bus Stand / Platform",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        74.5065,
+        15.8573
+      ]
+    },
+    "geofence_radius_meters": 60,
+    "created_at": "2026-09-13T00:00:00.000Z"
+  }
+]
