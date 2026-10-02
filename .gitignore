@@ -36,3 +36,6 @@ venv/
 .venv/
 env/
 .pytest_cache/
+
+.vercel
+.env*
